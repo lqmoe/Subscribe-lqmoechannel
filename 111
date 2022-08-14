@@ -1,4 +1,4 @@
 proxies:
-  - {name: 本订阅由绫浅 @lqnagisa 维护, server: lqnagisa.lq, port: 1, type: ss, cipher: none, password: ""}
-  - {name: 目前准备弃用 gg.gg 短链接, server: lqmoechannel.lq, port: 1, type: ss, cipher: none, password: ""}
-  - {name: 请及时将 gg.gg 替换成 4ryz.short.gy, server: 4ryz.short.gy, port: 1, type: ss, cipher: none, password: ""}
+  - {name: 本订阅由绫浅 @lqnagisa 维护, server: t.me/lqnagisa, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
+  - {name: 目前准备弃用 gg.gg 短链接, server: t.me/0lqmoechannel, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
+  - {name: 请及时将 gg.gg 替换成 4ryz.short.gy, server: 4ryz.short.gy, port: 1, type: ss, aes-128-gcm: none, password: ""}
