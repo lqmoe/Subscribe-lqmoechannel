@@ -1,6 +1,5 @@
 proxies:
   - {name: 本订阅由绫浅 @lqmoe_3 维护, server: t.me, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
-  - {name: 目前准备弃用 gg.gg 短链接, server: gg.gg, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
-  - {name: 请及时将 gg.gg 替换成 4ryz.short.gy, server: 4ryz.short.gy, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
-  - {name: 由于TAG与Ednovas节点过多，常导致报错, server: cdn.ednovas.me, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
-  - {name: 或许之后会考虑去除这两家机场的订阅, server: scrape.tagonline.aisa, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
+  - {name: 由于TAG与Ednovas两家机场的订阅文件过大, server: scrape.tagonline.aisa, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
+  - {name: 会经常导致订阅转换报错, server: scrape.tagonline.aisa, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
+  - {name: 之后会考虑去除这两家机场的订阅, server: scrape.tagonline.aisa, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
