@@ -1,5 +1,5 @@
 proxies:
-  - {name: 本订阅由绫浅 @lqmoe_3 维护, server: t.me, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
+  - {name: 本订阅由绫浅 @lqmoe_3 维护，请勿分享, server: t.me, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
   - {name: 由于TAG与Ednovas两家机场的订阅文件过大，常导致订阅转换报错, server: scrape.tagonline.aisa, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
   - {name: 目前已去除这两家机场的订阅, server: cdn.ednovas.me, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
   - {name: 如需使用，请PM绫浅, server: bilibili.com, port: 1, type: ss, cipher: aes-128-gcm, password: ""}
