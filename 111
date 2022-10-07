@@ -1,4 +1,4 @@
 proxies:
   - {name: 本订阅由绫浅 @lqmoe_3 维护，请勿分享, server: 20.187.118.229, port: 1001, type: vmess, uuid: 6978b908-1d07-3c8f-bec6-9b6d1661b3ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 由于订阅文件过大，更新时出现404错误为正常现象, server: 20.210.233.90, port: 10001, type: vmess, uuid: 6978b908-1d07-3c8f-bec6-9b6d1661b3ca, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 订阅更新日志 https://t.me/+TacLG7f1hH8zNTM1, server: 20.239.224.182, port: 443, type: vmess, uuid: 64C5A6DE-A4A0-A2DC-2D96-ABCBD5E08132, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 20.239.224.182}}
+  - {name: 订阅更新日志 https://t.me/+TacLG7f1hH8zNTM1, server: 114.37.210.85, port: 10001, type: vmess, uuid: 6978b908-1d07-3c8f-bec6-9b6d1661b3ca, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false}
