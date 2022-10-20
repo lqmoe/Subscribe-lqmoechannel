@@ -1,1 +1,4 @@
+custom_proxy_group=g1`select`!!GROUPID=0
+custom_proxy_group=g2`select`!!GROUPID=1
+custom_proxy_group=g3`select`!!GROUPID=2
 excloud_remarks=!!GROUPID=1!!.*Premium.*
