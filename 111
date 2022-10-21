@@ -1,4 +1,4 @@
 proxies:
-  - {name: 本订阅由绫浅 @lqmoe_1 维护，请勿分享, server: 20.24.211.202, port: 10111, type: vmess, uuid: 5063c093-e31f-3543-b183-5b369d327cc4, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false}
+  - {name: 本订阅由绫浅 @lqmoe_1 维护，请勿分享, server: 104.208.87.163, port: 44300, type: vmess, uuid: 819d5842-d802-31c1-aaee-df6ab350ef7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /ny, ws-headers: {Host: 104.208.87.163}}
   - {name: 由于订阅文件过大，更新时出现404错误为正常现象, server: access_south.txma.cn, port: 35002, type: ss, cipher: aes-256-gcm, password: e96b3f80-833f-4a8c-b1f2-cf5b1312202d}
   - {name: 订阅更新日志 https://t.me/+TacLG7f1hH8zNTM1, server: cc-iepl.244312.xyz, port: 54510, type: ss, cipher: aes-128-gcm, password: 2d69e3fa-3ed4-44a5-9745-6a485b38b8b0}
