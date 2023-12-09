@@ -1,4 +1,4 @@
 proxies:
-  - {name: 本订阅由绫浅 @lqmoe_1 维护，请勿分享, server: 20.24.71.198, port: 13640, type: vmess, uuid: 150604eb-26af-4776-a883-af9cdfed7e02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: 本订阅由绫浅维护，请勿分享, server: 20.24.71.198, port: 13640, type: vmess, uuid: 150604eb-26af-4776-a883-af9cdfed7e02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: 由于订阅文件过大，更新时报错为正常现象, server: 20.222.19.215, port: 80, type: vmess, uuid: 8a5c6f4e-f504-4767-a1a5-b3dcf261f0ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: lv.dingtalk.com}}
   - {name: 订阅更新日志 https://t.me/+TacLG7f1hH8zNTM1, server: 223.19.177.145, port: 21052, type: vmess, uuid: b1d6376f-1dfe-44d2-8ee4-cbf28cb01087, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 223.19.177.145}}
